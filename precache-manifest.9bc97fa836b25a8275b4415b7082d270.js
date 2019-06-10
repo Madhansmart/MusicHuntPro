@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a5c54042ecfd6df756ad2b313cbde859",
+    "revision": "b8dee709fa3fd2f172ca4b9dc733efa1",
     "url": "/MusicHuntPro/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MusicHuntPro/static/css/2.39017165.chunk.css"
   },
   {
-    "revision": "ac2ed2e25d6c631b0777",
+    "revision": "6f4e26e282c76755ca02",
     "url": "/MusicHuntPro/static/css/main.7215dfa2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MusicHuntPro/static/js/2.ea4367ec.chunk.js"
   },
   {
-    "revision": "ac2ed2e25d6c631b0777",
-    "url": "/MusicHuntPro/static/js/main.efa6a4ba.chunk.js"
+    "revision": "6f4e26e282c76755ca02",
+    "url": "/MusicHuntPro/static/js/main.1794aec8.chunk.js"
   },
   {
     "revision": "4bd83f621b57f6b7e182",
