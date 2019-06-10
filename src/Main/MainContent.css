@@ -1,0 +1,30 @@
+.app-main .login-main .form-group label{
+    font-size: 1.2em;
+    margin-right: 50px;
+}
+.app-main .signup-main .form-group label{
+    margin-right  :50px;
+}
+.app-main .log-reg-main {
+  box-shadow: 1px 1px 1px 1px grey;
+  width :700px;
+  height: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, 10%)
+}
+.app-main .log-reg-btn{
+  cursor: pointer;
+  padding : 1% 2%;
+}
+.app-main .log-reg-main hr{
+    margin-top : 0px;
+}
+.app-main .log-reg-btn .col{
+  color : black;
+  font-size: 1.9em;
+  padding :2%;
+  text-decoration: none;
+}
