@@ -4,7 +4,7 @@
   "private": true,
   "main": "server.js",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "gh-pages": "^2.0.1",
     "jquery": "^3.4.1",
     "jwt-decode": "^2.2.0",
